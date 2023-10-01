@@ -1,0 +1,13 @@
+
+.cardMain {
+    max-width: 30%;
+}
+
+/* .card-img2 {
+    padding-left: 16px;
+} */
+
+.card-img2 img {
+    max-width: 50%;
+    width: auto;    
+}
